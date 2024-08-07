@@ -1,3 +1,8 @@
+## 0.1.2
+
+* Fix on namespaces for iOS and Android
+
+
 ## 0.1.1
 
 * Change to http version constraints
